@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+.fantasyChange {
+    font-size: 3rem;
+    font-family: fantasy;
+    color: brown;
+}
